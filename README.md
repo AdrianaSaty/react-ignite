@@ -23,3 +23,9 @@ Use 'yarn webpack serve' to
 
 ### 6 - Using 'source-map'
 Allow us to see the original code (written by us) of the application after it was processed with Webpack. It was important when we need to debug code in the browser.
+
+### 7 - Config env vars
+To execute our application:
+* dev: yarn dev
+* production: yarn build
+
