@@ -32,3 +32,9 @@ To execute our application:
 ### 8 - Importing CSS files
 Use libs 'style
 -loader' and  'css-loader' to link your css files to the index.html file 
+
+### 9 - Config sass
+
+### 10 - Created 3 components
+
+### 11 - Config react-refresh lib
