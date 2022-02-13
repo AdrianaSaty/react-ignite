@@ -29,3 +29,6 @@ To execute our application:
 * dev: yarn dev
 * production: yarn build
 
+### 8 - Importing CSS files
+Use libs 'style
+-loader' and  'css-loader' to link your css files to the index.html file 
