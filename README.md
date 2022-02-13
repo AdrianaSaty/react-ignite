@@ -38,3 +38,7 @@ Use libs 'style
 ### 10 - Created 3 components
 
 ### 11 - Config react-refresh lib
+
+### 12 - Added Style to component: RepositoryList
+
+### 13 - Fetch API and show result in component RepositoryList
