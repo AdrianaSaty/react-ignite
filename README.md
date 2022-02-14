@@ -42,3 +42,5 @@ Use libs 'style
 ### 12 - Added Style to component: RepositoryList
 
 ### 13 - Fetch API and show result in component RepositoryList
+
+### 14 - Config typescript
