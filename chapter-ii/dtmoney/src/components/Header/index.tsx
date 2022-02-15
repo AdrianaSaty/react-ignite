@@ -8,7 +8,7 @@ export function Header() {
                 <button typeof="button">
                     New Transaction
                 </button>
-            </Content>s
+            </Content>
         </Container>
     )
 }
