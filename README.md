@@ -48,8 +48,15 @@ Use libs 'style
 #### 14 - Config typescript
 
 ### Desafio01
+Conceitos do React
 https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb769d
 
 ### Desafio02
+Componentizando a aplicação
 https://www.notion.so/Desafio-02-Componentizando-a-aplica-o-b9f0f025c95b437699d0c3115f55b0f1
 
+## Chapter II
+
+### Desafio01
+Criando um hook de carrinho de compras
+https://www.notion.so/Desafio-01-Criando-um-hook-de-carrinho-de-compras-5769216778794019a83f544e79167b12
